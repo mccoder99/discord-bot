@@ -1,0 +1,7 @@
+PyNaCl
+easy_pil
+asyncpraw
+requests
+aiosqlite
+ezcord
+python-dotenv
