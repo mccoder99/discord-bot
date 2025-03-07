@@ -1,6 +1,6 @@
 # mccoder99 | Open Source Files
 ## 🤖 Discord Bot
-Hier habe ich für euch einen Discord Bot in Python der mithilfe von Ezcord und der Hilfsbibliothek Pycord erstellt wurde,
+Hier habe ich für euch einen Discord Bot in Python der mithilfe von Ezcord und Pycord erstellt wurde,
 welcher sehr viele umfangreiche Funktionen besitzt. Der Bot unterstützt die deutsche Sprache!
 ## 📦 Packages
 - PyNaCl
